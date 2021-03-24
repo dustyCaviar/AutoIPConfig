@@ -1,7 +1,5 @@
 # Additional
 *.bat
-lib_remi/
-lib_serial/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
