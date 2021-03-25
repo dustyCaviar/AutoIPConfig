@@ -13,7 +13,7 @@ from remi import start, App
 
 
 # Designated sleep interval
-SERIAL_SLEEP = 0.2
+SLEEP_SERIAL = 0.2
 
 # Designated com port
 COM_PORT = "COM4"
